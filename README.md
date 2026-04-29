@@ -227,6 +227,11 @@ END
 
 #### Manual Calculations
 
+
+
+
+
+
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/5f822caf-0c85-4a6b-b89c-db89b5fbe5a3" />
 
 ---
